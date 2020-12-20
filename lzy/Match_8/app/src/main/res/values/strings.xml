@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="scrwm">生成二维码</string>
+    <string name="wz">请输入文字</string>
+</resources>

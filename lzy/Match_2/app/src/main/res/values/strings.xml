@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fqql">发起群聊</string>
+    <string name="tjhy">添加好友</string>
+    <string name="sys">扫一扫</string>
+    <string name="sfk">收付款</string>
+    <string name="bz">帮助与反馈</string>
+    <string name="sj">时间选择提醒设置</string>
+
+
+</resources>

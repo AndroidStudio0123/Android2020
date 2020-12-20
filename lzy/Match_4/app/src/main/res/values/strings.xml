@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="yy">请选择你喜欢的语言</string>
+    <string name="java">JAVA语言</string>
+    <string name="pt">Python</string>
+    <string name="c">C++</string>
+    <string name="ccc">C语言</string>
+    <string name="tj">提交</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="yhm">请输入用户名</string>
+    <string name="mm">请输入密码</string>
+    <string name="qsrqq">请输入QQ号</string>
+    <string name="qsrsj">请输入手机号</string>
+    <string name="dl">登陆</string>
+    <string name="zc">注册</string>
+    <string name="wjmm">忘记密码？</string>
+
+
+    <string name="zcyhm">用 户 名： \ </string>
+    <string name="zcmm">密 \ \ \ \ \ \ \ \码：</string>
+    <string name="zcqrmm">确认密码：</string>
+    <string name="qqhm">Q Q 号码：</string>
+    <string name="sjhm">手机号码：</string>
+
+</resources>
